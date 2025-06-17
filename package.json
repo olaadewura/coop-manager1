@@ -1,0 +1,6 @@
+{
+  "name": "coop-manager",
+  "version": "1.0.0",
+  "scripts": { "dev": "next dev" },
+  "dependencies": { "react": "^18.2.0", "next": "13.4.12" }
+}
